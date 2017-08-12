@@ -4,7 +4,7 @@ This is an Ionic 3 application that uses the underground api to report weather a
 
 <li> build a fully working mobile weather app using Ionic 3 and Angular 4. </li>
 <li>using the API from wunderground.com. we will create a provider to reach out to the API and return and display the data.</li>
-<li> also implement Ionic storage to save the location data.
+<li> also implement Ionic storage to save the location data. </li>
 
 ### Version
 1.0.0
