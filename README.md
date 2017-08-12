@@ -53,6 +53,7 @@ $ ionic build android
 
 ![nn](https://user-images.githubusercontent.com/12325386/29242255-1b073088-7fbc-11e7-9d2b-023f612175c5.JPG)
 
+![nn](https://user-images.githubusercontent.com/12325386/29242270-56ad7d2c-7fbc-11e7-964d-8ad14a36f594.JPG)
 
 ![nn](https://user-images.githubusercontent.com/12325386/29242227-c79121ac-7fbb-11e7-88fa-c68fe19e0540.JPG)
 
