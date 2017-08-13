@@ -9,9 +9,6 @@ This is an Ionic 3 application that uses the underground api to report weather a
 ### Version
 1.0.0
 
-## Usage
-
-
 ### Installation
 
 Install the dependencies
